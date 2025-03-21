@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 👋 I'm Pratham
+💻 **Software Developer | Full-Stack Engineer | AI Enthusiast**
+
+🚀 Passionate about building scalable applications, secure platforms, and AI-powered solutions.  
+🔧 **Tech Stack:** React, Node.js, Flask, MongoDB, Neon Postgres, C/C++, Python, Java, SQL  
+
+### 🔥 Current Projects  
+- 🌐 **Secure Social Media Platform:** P2P marketplace, E2E encryption, and secure logging.  
+- 🤖 **AI-powered Resume Scanner:** ATS score analysis and format evaluation.  
+- 💡 **Family Financial Dashboard:** Financial asset tracking with AI insights.
+
+📫 **Let's connect!**  
+[LinkedIn](https://www.linkedin.com/in/prathamshekhawat/)  
+
