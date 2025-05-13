@@ -21,6 +21,9 @@ Here are some ideas to get you started:
 🚀 Passionate about building scalable applications, secure platforms, and AI-powered solutions.  
 🔧 **Tech Stack:** React, Node.js, Flask, MongoDB, Neon Postgres, C/C++, Python, Java, SQL  
 
+### 🔥 Projects I have been part of 
+-  🌐 [AllerStack](https://cosylab.iiitd.edu.in/allerstack/)
+
 ### 🔥 Current Projects  
 - 🌐 **Secure Social Media Platform:** P2P marketplace, E2E encryption, and secure logging.  
 - 🤖 **AI-powered Resume Scanner:** ATS score analysis and format evaluation.  
